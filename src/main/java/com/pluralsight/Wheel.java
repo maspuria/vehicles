@@ -1,4 +1,5 @@
 package com.pluralsight;
 
-public class Semitruck {
+public class Wheel  {
+
 }
